@@ -18,6 +18,8 @@
 I am a software engineer from Omaha, Nebraska with an integrated marketing background. 
 I am proficient in HTML, CSS, JavaScript, Node.js, and React. My strengths are displayed in building software applications and websites, as well as understanding how they impact your company's overall brand and vision. My ability to be creative yet down-to-earth allows me to implement clever ideas with functional features. 
 I have experience working with small to medium sized businesses in farm equipment manufacturing, construction, health clubs, and transportation industries.
+
+
 I also do freelance web development for small businesses and startups!  
   
 
@@ -61,8 +63,7 @@ I also do freelance web development for small businesses and startups!
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" height="25" />  
+
 </div>  
 
 <br/>  
