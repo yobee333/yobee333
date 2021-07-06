@@ -29,7 +29,7 @@ I also do freelance web development for small businesses and startups!
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🐝 I'm currently working on family info app.  
+- 🐝 I'm currently working on a mountain bike trail info app.  
   
 
 - ☀️Check out my portfolio: https://thedeveloperbee.com  
