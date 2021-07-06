@@ -14,6 +14,8 @@
 
 
 
+
+
 ### Glad to see you here!  
 I am a software engineer from Omaha, Nebraska with an integrated marketing background. 
 I am proficient in HTML, CSS, JavaScript, Node.js, and React. My strengths are displayed in building software applications and websites, as well as understanding how they impact your company's overall brand and vision. My ability to be creative yet down-to-earth allows me to implement clever ideas with functional features. 
