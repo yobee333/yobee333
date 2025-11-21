@@ -16,29 +16,6 @@
 
 
 
-### Glad to see you here!  
-I am a software engineer from Omaha, Nebraska with an integrated marketing background. 
-I am proficient in HTML, CSS, JavaScript, Node.js, and React. My strengths are displayed in building software applications and websites, as well as understanding how they impact your company's overall brand and vision. My ability to be creative yet down-to-earth allows me to implement clever ideas with functional features. 
-I have experience working with small- to medium-sized businesses including farm equipment manufacturing, construction, health clubs, and transportation industries.
-
-
-I also do freelance web development for small businesses and startups!  
-  
-
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🐝 I'm currently working on a mountain bike trail info app.  
-  
-
-- ☀️Check out my portfolio: https://thedeveloperbee.com  
-  
-
-- ⚡ Fun fact: If I wish you happy birthday, it's probably in pig latin!  
-
 
 </td><td valign="top" width="50%">
 
